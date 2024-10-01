@@ -9,7 +9,7 @@ import GamingVideos from './components/GamingVideos'
 import SavedVideos from './components/SavedVideos'
 import NotFound from './components/NotFound'
 
-import ThemeContext from './context/ThemeContext'
+import {ThemeContext} from './context/ThemeContext'
 
 import './App.css'
 
